@@ -1,0 +1,12 @@
+sfdc:
+  username: "shyajayaraman@gmail.com"
+  loginurl: "https://login.salesforce.com/services/Soap/u/55.0"
+http:
+  port: "8081"
+  
+api:
+  autodiscoveryid: "18094561" 
+retry:
+  count: "3"
+  interval: "1000"
+  
