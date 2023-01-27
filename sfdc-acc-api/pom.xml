@@ -34,7 +34,7 @@
 					<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
 					<muleVersion>${app.runtime}</muleVersion>
-					<username>${Mule.User}</username>
+					<username>${Mule.user}</username>
 					<password>${Mule.Pwd}</password>
 					<applicationName>sfdc-account1-api</applicationName>					
 					<objectStoreV2>true</objectStoreV2>
