@@ -46,8 +46,8 @@
 					<properties>
 					<mule.env>${Mule.Env}</mule.env>
 					<mule.encryption.key>${Mule.Encryption.Key}</mule.encryption.key>					
-					<anypoint.platform.client_id>26bc10476d58412390d26f79feb3abed</anypoint.platform.client_id>
-					<anypoint.platform.client_secret>a55b82F15Ee3418e8E2b550a39a25A2A</anypoint.platform.client_secret>
+					<anypoint.platform.client_id>22863131670847ce9059f02abbb17e3b</anypoint.platform.client_id>
+					<anypoint.platform.client_secret>68f1911d2015406C94F49c1dde222224</anypoint.platform.client_secret>
 					<anypoint.platform.config.analytics.agent.enabled>true</anypoint.platform.config.analytics.agent.enabled>
 					</properties>
 					</cloudHubDeployment>
