@@ -1,8 +1,0 @@
-sfdc:
-  username: "shjayaraman@gmail.com"
-  password: "Shya26pebbu"
-  securityToken: "gNt7IRb8lLgnB3DTzAVvCPdkZ"
-  
-http:
-  port: "8081"
-  
